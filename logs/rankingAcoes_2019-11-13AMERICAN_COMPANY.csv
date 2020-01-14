@@ -1,0 +1,177 @@
+Cigna Corporation;CI;5.0
+Alphabet;GOOGL;5.0
+Visa;V;4.9
+Accenture;ACN;4.9
+Disney;DIS;4.8
+Anthem;ANTM;4.8
+Home Depot;HD;4.8
+Microsoft;MSFT;4.8
+Apple;AAPL;4.8
+C.H. Robinson Worldwide;CHRW;4.7
+Danaher;DHR;4.7
+TJX Companies;TJX;4.7
+Wells Fargo;WFC;4.7
+JPMorgan Chase;JPM;4.7
+PayPal;PYPL;4.6
+Intel;INTC;4.6
+Berkshire Hathaway;BRK.A;4.6
+Amazon;AMZN;4.6
+U.S. Bancorp;USB;4.5
+Union Pacific;UNP;4.5
+Nike;NKE;4.5
+Alphabet;GOOG;4.5
+Texas Instruments;TXN;4.4
+3M;MMM;4.4
+Facebook;FB;4.4
+Johnson & Johnson;JNJ;4.4
+Costco Wholesale;COST;4.4
+UnitedHealth;UNH;4.4
+Berkshire Hathaway;BRK.B;4.4
+Omnicom Group;OMC;4.3
+General Mills;GIS;4.3
+Aflac;AFL;4.3
+Southern Corporation;SO;4.3
+Sysco;SYY;4.3
+PNC Financial Services;PNC;4.2
+Southwest Airlines;LUV;4.2
+Bristol-Myers Squibb;BMY;4.2
+Thermo Fisher Scientific;TMO;4.2
+Dollar General;DG;4.2
+Humana;HUM;4.2
+Bank of America;BAC;4.2
+Walgreens Boots Alliance;WBA;4.2
+Walmart;WMT;4.2
+NextEra Energy;NEE;4.1
+Amgen;AMGN;4.1
+American Express;AXP;4.1
+Oracle;ORCL;4.1
+Cisco;CSCO;4.1
+CDW;CDW;4.0
+Sherwin-Williams;SHW;4.0
+Cummins;CMI;4.0
+Starbucks;SBUX;4.0
+Raytheon;RTN;4.0
+SAP;SAP;4.0
+Northrop Grumman;NOC;4.0
+Progressive Corporation;PGR;4.0
+Chubb;CB;4.0
+General Dynamics;GD;4.0
+Honeywell International;HON;4.0
+Pfizer;PFE;4.0
+Procter & Gamble;PG;4.0
+Colgate-Palmolive;CL;3.9
+McDonald's;MCD;3.9
+Boeing;BA;3.9
+Carnival Corporation;CCL;3.8
+Duke Energy;DUK;3.8
+Coca-Cola;KO;3.8
+Pepsi;PEP;3.8
+Target;TGT;3.8
+Morgan Stanley;MS;3.7
+Merck;MRK;3.7
+United Parcel Service;UPS;3.7
+CVS Health;CVS;3.7
+Nordstrom;JWN;3.5
+Bank of New York Mellon;BK;3.5
+Applied Materials;AMAT;3.5
+WellCare Health Plans;WCG;3.5
+Marriott International;MAR;3.5
+Qualcomm;QCOM;3.5
+Medtronic;MDT;3.5
+Deere;DE;3.5
+Allstate Corporation;ALL;3.5
+Lockheed Martin;LMT;3.5
+Centene;CNC;3.5
+United Technologies;UTX;3.5
+Phillips 66;PSX;3.5
+Netflix;NFLX;3.4
+Macy's;M;3.4
+MetLife;MET;3.4
+CarMax;KMX;3.3
+Genuine Parts;GPC;3.3
+CBRE Group;CBRE;3.3
+Philip Morris;PM;3.3
+Abbott Laboratories;ABT;3.3
+Best Buy;BBY;3.3
+HCA Healthcare;HCA;3.3
+HP;HPQ;3.3
+Lowe's;LOW;3.3
+IBM;IBM;3.3
+AmerisourceBergen;ABC;3.3
+Kimberly-Clark;KMB;3.2
+AT&T;T;3.2
+Mondelez;MDLZ;3.1
+Exxon Mobil;XOM;3.1
+Becton Dickinson;BDX;3.0
+D.R. Horton;DHI;3.0
+American Electric Power;AEP;3.0
+WestRock;WRK;3.0
+Synchrony Financial;SYF;3.0
+Lincoln National;LNC;3.0
+Emerson Electric;EMR;3.0
+Occidental Petroleum;OXY;3.0
+Kohl's;KSS;3.0
+DXC Technology;DXC;3.0
+Whirlpool;WHR;3.0
+Eaton Corp;ETN;3.0
+Jabil;JBL;3.0
+Paccar;PCAR;3.0
+Eli Lilly;LLY;3.0
+Gilead Sciences;GILD;3.0
+Flex;FLEX;3.0
+Arrow Electronics;ARW;3.0
+The Travelers Companies;TRV;3.0
+Micron Technology;MU;3.0
+Johnson Controls International;JCI;3.0
+AbbVie;ABBV;3.0
+Goldman Sachs;GS;3.0
+Exelon Corporation;EXC;3.0
+Tech Data;TECD;3.0
+Tyson Foods;TSN;3.0
+United Airlines;UAL;3.0
+T-Mobile;TMUS;3.0
+Delta Air Lines;DAL;3.0
+Sony;SNE;3.0
+Comcast;CMCSA;3.0
+Marathon Petroleum;MPC;3.0
+Valero Energy;VLO;3.0
+Kroger;KR;3.0
+Cardinal Health;CAH;3.0
+International Paper;IP;2.8
+Hewlett Packard;HPE;2.8
+Dow;DOW;2.8
+DuPont de Nemours;DD;2.8
+Lennar;LEN;2.7
+Broadcom;AVGO;2.7
+Prudential Financial;PRU;2.7
+FedEx;FDX;2.7
+Gap;GPS;2.6
+Caterpillar;CAT;2.6
+Nucor Corporation;NUE;2.5
+The Kraft Heinz;KHC;2.5
+Archer-Daniels Midland;ADM;2.5
+Citigroup;C;2.5
+Verizon;VZ;2.5
+Chevron;CVX;2.5
+ConocoPhillips;COP;2.3
+Ford;F;2.2
+Western Digital;WDC;2.0
+Freeport-McMoRan;FCX;2.0
+The Hartford Financial Services;HIG;2.0
+Avnet;AVT;2.0
+Dollar Tree;DLTR;2.0
+Baker Hughes;BHGE;2.0
+Halliburton;HAL;2.0
+Altria Group;MO;2.0
+Schlumberger;SLB;2.0
+LyondellBasell Industries;LYB;2.0
+Dell;DELL;2.0
+McKesson;MCK;2.0
+American Airlines;AAL;1.8
+General Motors;GM;1.7
+Tesla;TSLA;1.5
+Charter;CHTR;1.5
+American International Group;AIG;1.3
+General Electric;GE;1.1
+Allergan;AGN;1.0
+CenturyLink;CTL;1.0
