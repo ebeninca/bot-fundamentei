@@ -53,8 +53,8 @@ public class Fundamentei {
 		WebElement password = driver.findElement(By.name("password"));
 		WebElement login = driver
 				.findElement(By.xpath("//button[text()='Continuar']"));
-		username.sendKeys("eduardo.beninca@gmail.com");
-		password.sendKeys("6b7fhlet");
+		username.sendKeys("email");
+		password.sendKeys("passwd");
 		login.click();
 
 		Thread.sleep(2000);
